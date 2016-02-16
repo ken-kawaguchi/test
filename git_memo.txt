@@ -1,0 +1,7 @@
+  134  git add aaa.txt
+  144  git commit -m "aaa"
+  146  git push -u origin master
+
+  148  git config --global user.name "ken-kawaguchi"
+  149  git config --global user.email "ken-kawaguchi@vt.jp.nec.com"
+
